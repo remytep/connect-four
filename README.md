@@ -1,7 +1,7 @@
 # Connect Four Plugin
 
 <img src="./img/game.png" alt="game screenshot" width="738">
-A small vanilla JavaScript plugin so that you can insert a Connect Four game to your html page. Made during a sunny afternoon this july.
+A small vanilla JavaScript plugin so that you can insert a Connect Four game to your html page. Made during a sunny afternoon in july.
 
 ### Things I learned making this project
 - Basic 2D array logic
